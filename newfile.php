@@ -1,0 +1,3 @@
+<?php
+echo "HELLO WORLD I AM PHP DEVELOPER ";EC
+?>
